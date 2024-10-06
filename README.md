@@ -17,8 +17,8 @@ This API allows create, read, update and delete users and documents linked. It s
   - [Create Document](#create-document)
   - [Get Documents](#get-documents)
   - [Get Specific Document](#get-specific-document)
-  - [Update Document](#update-documents)
-  - [Delete Document](#delete-documents)
+  - [Update Document](#update-document)
+  - [Delete Document](#delete-document)
 
 ## Prerequisites
 
