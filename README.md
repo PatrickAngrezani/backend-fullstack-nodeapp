@@ -5,6 +5,8 @@ This API allows create, read, update and delete users and documents linked. It s
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
+- [Authentication](#authentication)
+- [Data Persistence](#data-persistence)
 - [Running the Project](#run-project-locally)
 - [API Endpoints](#api-endpoints)
   - [Create User](#create-user)
@@ -12,6 +14,11 @@ This API allows create, read, update and delete users and documents linked. It s
   - [Get Specific User](#get-specific-user)
   - [Update User](#update-user)
   - [Delete User](#delete-user)
+  - [Create Document](#create-document)
+  - [Get Documents](#get-documents)
+  - [Get Specific Document](#get-specific-document)
+  - [Update Document](#update-documents)
+  - [Delete Document](#delete-documents)
 
 ## Prerequisites
 
@@ -66,7 +73,7 @@ This API stores data in memory only. Once the server is stopped or restarted, al
 node server.js
 ```
 
-## API Users Endpoints
+## API Endpoints
 
 ### Create User
 
