@@ -68,7 +68,6 @@ This API stores data in memory only. Once the server is stopped or restarted, al
 node server.js
 ```
 
-````markdown
 ## API Users Endpoints
 
 ### Create User
@@ -419,4 +418,3 @@ No content
   "message": "Document not found."
 }
 ```
-````
