@@ -2,7 +2,6 @@
 
 This API allows create, read, update and delete users and documents linked. It simulates CRUD operations in memory, without real persistent in a database. It's built using Node.js and Express, and includes authentication via JWT and password hashing via Bcrypt.
 
-```markdown
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -13,7 +12,6 @@ This API allows create, read, update and delete users and documents linked. It s
   - [Get Specific User](#get-specific-user)
   - [Update User](#update-user)
   - [Delete User](#delete-user)
-```
 
 ## Prerequisites
 
