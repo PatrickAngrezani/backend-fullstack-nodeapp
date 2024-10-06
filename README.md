@@ -333,7 +333,7 @@ Accept: application/json
 - **Error Handling:**
   - **404 Not Found:** Document with given ID doesn't exist
 
-### Update User
+### Update Document
 
 - **Method:** `PUT`,
 - **URL:** `/documents/:id`,
@@ -369,7 +369,7 @@ Authorization: Bearer <<token>>
   - **401 Unauthorized:** If token is invalid or missing.
   - **404 Not Found:** Document with given ID doesn't exist
 
-### Delete User
+### Delete Document
 
 - **Method:** `DELETE`
 - **URL:** `/documents/:id`
